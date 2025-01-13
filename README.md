@@ -1,5 +1,3 @@
-Cloud Weather App 🌦️
-A sleek, modern React weather app that provides real-time weather updates for cities around the world. Built using React + Vite, this app showcases weather conditions, temperature, and more in a user-friendly interface.
 
 🚀 Features
 🌡️ Real-time Weather Data: Get up-to-date weather information for any city.
